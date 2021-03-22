@@ -1,5 +1,7 @@
 # IFFMC
 
+Discord: https://discord.gg/aMf87FkTwW
+
 ## Introduction
 
 > IFFMC is an FMC for Infinite Flight, avaliable for install on windows and MacOs, IFFMC is open source and provides an extra sense of realism to your experience.
